@@ -49,8 +49,8 @@ body {
   display: flex;
   padding: 40px;
   box-sizing: border-box;
-  width: 600px; /*  change to 100px bigger than canvas */
-  height: 600px; /*  change to 100px bigger than canvas */
+  width: 500px; /*  change to 100px bigger than canvas */
+  height: 500px; /*  change to 100px bigger than canvas */
 }
 
  .canvas {
